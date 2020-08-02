@@ -1,2 +1,2 @@
 # Pythontutorials
-learning
+learning Python
